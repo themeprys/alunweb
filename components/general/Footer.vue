@@ -1,10 +1,10 @@
 <template>
-  <div class="">
+  <div class="footer pt-3">
     <div class="container text-center">
       <div class="row">
-        <div class="col py-4">
+        <div class="col">
           <p>
-            Copyright by Rupa Suara Audio Consultant @ 2023 - All Rights Reseved
+            Copyright by Rupa Suara Audio Consultant @ 2023<br>All Rights Reseved
           </p>
         </div>
       </div>

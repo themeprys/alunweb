@@ -35,7 +35,7 @@
           <!-- <button type="button" class="btn btn-outline-primary me-2">
             Contact Us
           </button> -->
-          <a href="#beta" type="button" class="btn btn-dark">Join Beta Tester</a>
+          <a href="#beta" type="button" class="btn btn-dark">Join Beta</a>
         </div>
       </header>
     </div>
