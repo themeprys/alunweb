@@ -1,11 +1,10 @@
 <template>
-  <div class="bg-light text-dark">
+  <div class="bg-black text-white">
     <div class="container text-center">
       <div class="row">
         <div class="col py-4">
           <p>
-            Copyright by My Company @ 2022 - All Rights Reseved<br />Design by
-            themePrys
+            Copyright by Rupa Suara Audio Consultant @ 2023 - All Rights Reseved
           </p>
         </div>
       </div>

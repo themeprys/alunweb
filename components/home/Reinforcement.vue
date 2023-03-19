@@ -1,21 +1,45 @@
 <template>
-  <section class="bg-secondary text-white">
+  <section class="bg-white text-black">
     <div class="container">
       <div class="row justify-content-center py-5">
-        <div class="col-4 text-center">
-            <img
-              alt="Image"
-              src="https://wingman.mediumra.re/assets/img/avatar-male-3.jpg"
-              class="avatar avatar-lg"
-              width="180px"
-            />
-        </div>
-        <div class="col-8">    
-              <p class="h2">
-                “With Wingman, we were able to turn out a stunning landing page
-                and compelling MVP for our SaaS App in no time.”
-              </p>
-              <span>Samuel Canning, Movend</span>
+        <div class="col-12  px-4 py-5">
+              <p class="h2 mb-5">Various Target Activities</p>
+              <div class="row py-5">
+                <div class="col-2 text-center">
+                  <i class="fa-solid fa-person-rays fa-4x"></i>
+                </div>
+                <div class="col-7">
+                  <h2 class="h1">Focus Time</h2>
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel sunt consequuntur nemo. Ex dicta aperiam molestias nihil, repellat assumenda corporis omnis? Laboriosam illo vitae sequi possimus ut quam voluptatibus veritatis?
+                </div>
+              </div>
+              <div class="row py-5">
+                <div class="col-2 text-center">
+                  <i class="fa-solid fa-laptop-file fa-4x"></i>
+                </div>
+                <div class="col-7">
+                  <h2 class="h1">Daily Work</h2>                  
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel sunt consequuntur nemo. Ex dicta aperiam molestias nihil, repellat assumenda corporis omnis? Laboriosam illo vitae sequi possimus ut quam voluptatibus veritatis?
+                </div>
+              </div>
+              <div class="row py-5">
+                <div class="col-2 text-center">
+                  <i class="fa-solid fa-hands-praying fa-4x"></i>
+                </div>
+                <div class="col-7">
+                  <h2 class="h1">Meditation</h2>                  
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel sunt consequuntur nemo. Ex dicta aperiam molestias nihil, repellat assumenda corporis omnis? Laboriosam illo vitae sequi possimus ut quam voluptatibus veritatis?
+                </div>
+              </div>        
+              <div class="row py-5">
+                <div class="col-2 text-center">
+                  <i class="fa-solid fa-bed fa-4x"></i>
+                </div>
+                <div class="col-7">
+                  <h2 class="h1">Deep Sleep</h2>                  
+                  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel sunt consequuntur nemo. Ex dicta aperiam molestias nihil, repellat assumenda corporis omnis? Laboriosam illo vitae sequi possimus ut quam voluptatibus veritatis?
+                </div>
+              </div>                                                
         </div>
       </div>
     </div>
