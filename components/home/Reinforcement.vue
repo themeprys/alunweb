@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-white text-black">
+  <section id="refinforcement">
     <div class="container">
       <div class="row justify-content-center py-5">
         <div class="col-12 px-4 py-5">
@@ -43,6 +43,7 @@
         </div>
       </div>
     </div>
+
   </section>
 </template>
 

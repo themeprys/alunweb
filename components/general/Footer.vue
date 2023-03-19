@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-black text-white">
+  <div class="">
     <div class="container text-center">
       <div class="row">
         <div class="col py-4">

@@ -1,12 +1,6 @@
 <template>
   <div>
-    <div class="container">
-      <div class="row">
-        <div class="col p-0">
           <HomeHerobeta />
-        </div>
-      </div>
-    </div>
     <HomeIntro />
     <HomeAbout />
     <HomeReinforcement />
