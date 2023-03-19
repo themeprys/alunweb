@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-white mb-5">
+  <section id="intro" class="bg-white mb-0">
         <div class="container px-4 py-5">
           <!-- <div class="row justify-content-around align-items-center py-5">
             <div class="col-12 col-md-6 col-lg-5 text-md-left section-intro">

@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col p-0">
-  <div class="alun_hero px-4 py-5">
+  <div class="alun_hero px-4 pt-5">
     <div class="row flex-lg-row-reverse align-items-center g-5 pb-5">
       <div class="col-12 col-md-6 pt-0 mt-0 text-center">
         <img src="~/public/img/logo.svg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
@@ -21,7 +21,7 @@
       </div>
     </div>
   </div>  
-      <HomeWave />
+      <!-- <HomeWave /> -->
 
 </div>
 </template>

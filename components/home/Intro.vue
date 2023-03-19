@@ -1,5 +1,5 @@
 <template>
-  <section class="text-center bg-white" id="intro">
+  <section class="text-center bg-white">
     <div class="container">
       <!-- <div class="row justify-content-center py-3">
         <div class="col-xl-9">
@@ -15,7 +15,7 @@
           </p>
         </div>
       </div> -->
-      <div class="row py-5 mb-5">
+      <div class="row pb-5 mb-0">
         <div class="col-12 col-md-3 py-5">
           <i class="fa-solid fa-headphones-simple fa-4x"></i>
           <h3 class="pt-4 h3 fs-5">Personalized Music Player</h3>

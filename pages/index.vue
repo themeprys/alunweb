@@ -1,8 +1,8 @@
 <template>
   <div>
           <HomeHerobeta />
-    <HomeIntro />
     <HomeAbout />
+    <HomeIntro />
     <HomeReinforcement />
     <HomeBeta />
     <!-- <HomeBenefit /> -->
