@@ -1,6 +1,6 @@
 <template>
   <section class="bg-white mb-5">
-        <div class="container py-5">
+        <div class="container px-4 py-5">
           <!-- <div class="row justify-content-around align-items-center py-5">
             <div class="col-12 col-md-6 col-lg-5 text-md-left section-intro">
               <span class="title-decorative">Designed for Developers</span>
@@ -16,10 +16,10 @@
           </div> -->
 
           <div class="row">
-            <div class="col-6">
+            <div class="col-12 col-md-6 mb-5">
               <img alt="Image" src="~/public/img/wave.svg" class="img-fluid" width="800px">
             </div>
-            <div class="col-12 col-md-6 col-lg-5 text-md-left section-intro">
+            <div class="col-12 col-md-6 text-md-left section-intro">
               <!-- <span class="title-decorative">Designed for Developers</span> -->
               <h3 class="h1 pb-4">About Alun</h3>
               <p>Our app is based on Indonesian musical sounds from traditional sources such as gamelan and karawitan, blended with modern music technology. This combination of ancestral and contemporary audio will create a unique soundscape that offers users a holistic experience.</p>

@@ -16,19 +16,19 @@
         </div>
       </div> -->
       <div class="row py-5 mb-5">
-        <div class="col">
+        <div class="col-12 col-md-3 py-5">
           <i class="fa-solid fa-headphones-simple fa-4x"></i>
           <h3 class="pt-4 h3 fs-5">Personalized Music Player</h3>
         </div>
-        <div class="col">
+        <div class="col-12 col-md-3 py-5">
           <i class="fa-solid fa-flask fa-4x"></i>
           <h3 class="pt-4 h3 fs-5">Backed by Science</h3>
         </div>
-        <div class="col">
+        <div class="col-12 col-md-3 py-5">
           <i class="fa-solid fa-code fa-4x"></i>
           <h3 class="pt-4 h3 fs-5">Machine Learning Technology</h3>
         </div>
-        <div class="col">
+        <div class="col-12 col-md-3 py-5">
           <i class="fa-solid fa-mobile fa-4x"></i>
           <h3 class="pt-4 h3 fs-5">Easy to Use App</h3>
         </div>
