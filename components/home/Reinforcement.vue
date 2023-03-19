@@ -1,5 +1,5 @@
 <template>
-  <section id="refinforcement">
+  <section id="refinforcement" class="bg-light">
     <div class="container">
       <div class="row justify-content-center py-5">
         <div class="col-12 px-4 py-5">
