@@ -30,7 +30,7 @@
         </div>
         <div class="col-12 col-md-3 py-5">
           <i class="fa-solid fa-mobile fa-4x"></i>
-          <h3 class="pt-4 h3 fs-5">Easy to Use App</h3>
+          <h3 class="pt-4 h3 fs-5">Easy to Use</h3>
         </div>
       </div>
       <!-- <div class="row justify-content-center pt-0 mt-0 pb-0">
