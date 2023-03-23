@@ -8,5 +8,5 @@ export default defineNuxtConfig({
     nitro: {
         preset: 'node-server'
     },
-    buildDir: 'dist',
+    buildDir: 'nuxt-build',
 })
