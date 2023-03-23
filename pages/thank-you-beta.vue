@@ -15,7 +15,7 @@ useHead({
     { name: 'description', content: 'AI generated ambient sound that\'s personalized to improve your mental health daily activities.' }
   ],
   bodyAttrs: {
-    class: 'test'
+    class: 'thanks'
   }
 })
 </script>
