@@ -20,11 +20,11 @@
             <input type="hidden" name="_email.template.footer" value="false" />
             <input type="checkbox" name="_alunhoney" style="display:none" tabindex="-1" autocomplete="off" />
               <div class="form-floating mb-3">
-                <input v-model="full_name" type="full_name" class="form-control" id="floatingPassword" placeholder="Your Name">
+                <input v-model="full_name" type="full_name" class="form-control" id="floatingPassword" placeholder="Your Name" required>
                 <label for="floatingPassword">Your Name</label>
               </div>
               <div class="form-floating mb-3">
-                <input v-model="email" type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                <input v-model="email" type="email" class="form-control" id="floatingInput" placeholder="name@example.com" required>
                 <label for="floatingInput">Email address</label>
               </div>
               <!-- <div class="checkbox mb-3">
