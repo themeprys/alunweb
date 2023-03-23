@@ -36,7 +36,7 @@
                   <i class="fa-solid fa-bed fa-4x"></i>
                 </div>
                 <div class="col col-md-7">
-                  <h2 class="h1">Deep Sleep</h2>                  
+                  <h2 class="h1">Sleep</h2>                  
                   Sleep is very important. Some experts even recommend us to sleep at least 8 hours per day. However, sometimes we have difficulty sleeping because there are many thoughts or sounds in the environment where we live. Alun will help us sleep better and with better quality.
                 </div>
               </div>                                                
