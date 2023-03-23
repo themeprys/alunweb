@@ -8,7 +8,19 @@
 
 <script setup>
   useHead({
-    title: "this is the title",
+  title: "Alun - Music App for Your Well-Being Acivities",
+  viewport: "width=device-width, initial-scale=1, maximum-scale=1",
+  charset: "utf-8",
+  meta: [
+    {
+      name: "description",
+      content:
+        "AI generated ambient sound that's personalized to improve your mental health daily activities.",
+    },
+  ],
+  bodyAttrs: {
+    class: "alun",
+  },    
     link: [
       {
         href: "https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css",
