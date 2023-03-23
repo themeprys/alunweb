@@ -7,4 +7,8 @@ export default defineNuxtConfig({
         },
         
     },
+    modules: ['nuxt-gtag'],
+    gtag: {
+      id: 'G-2B33HH8Y84'
+    }    
 })
