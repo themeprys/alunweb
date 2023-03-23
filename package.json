@@ -9,6 +9,10 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.11",
-    "nuxt-gtag": "^0.3.0"
+    "nuxt-gtag": "^0.3.0",
+    "vue-gtag-next": "^1.14.0"
+  },
+  "dependencies": {
+    "@gtm-support/vue-gtm": "^2.0.0"
   }
 }
