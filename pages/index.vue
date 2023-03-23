@@ -98,7 +98,7 @@ export default {
           email: this.email,
         }),
       });
-      // alert("Form submitted");
+
       this.$router.push("/thank-you-beta");
     },
   },
