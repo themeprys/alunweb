@@ -1,15 +1,15 @@
 export default {
-  "public/img/logo.svg": {
-    "resourceType": "image",
-    "mimeType": "image/svg+xml",
-    "file": "logo.596d6d23.svg",
-    "src": "public/img/logo.svg"
-  },
   "public/img/wave.svg": {
     "resourceType": "image",
     "mimeType": "image/svg+xml",
     "file": "wave.be00614b.svg",
     "src": "public/img/wave.svg"
+  },
+  "public/img/logo.svg": {
+    "resourceType": "image",
+    "mimeType": "image/svg+xml",
+    "file": "logo.596d6d23.svg",
+    "src": "public/img/logo.svg"
   },
   "public/img/logo-text.svg": {
     "resourceType": "image",
