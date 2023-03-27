@@ -6,10 +6,10 @@
     "module": true,
     "resourceType": "script"
   },
-  "/Users/priyonosantosa/Documents/prys/repo/alun/node_modules/nuxt/dist/app/entry.mjs": {
+  "/Users/priyonosantosa/Documents/prys/repo/xalun/node_modules/nuxt/dist/app/entry.mjs": {
     "resourceType": "script",
     "module": true,
     "isEntry": true,
-    "file": "/Users/priyonosantosa/Documents/prys/repo/alun/node_modules/nuxt/dist/app/entry.mjs"
+    "file": "/Users/priyonosantosa/Documents/prys/repo/xalun/node_modules/nuxt/dist/app/entry.mjs"
   }
 }

@@ -9,7 +9,7 @@
         <img src="~/public/img/logo.svg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
       </div>
       <div class="col-lg-6 mt-0">
-        <h1 class="display-5 fw-bold lh-1 mb-3">Music App for Your Well-Being</h1>
+        <h1 class="display-5 fw-bold lh-1 mb-3">Elevate Your Mind with Personalized Ambient Sound</h1>
         <p class="lead">AI generated ambient sound that's personalized to improve your mental health daily activities</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
           <a href="#intro" class="btn btn-dark btn-lg px-4 me-md-2">Learn More</a>

@@ -10,7 +10,7 @@
                 </div>
                 <div class="col col-md-7">
                   <h2 class="h1">Focus</h2>
-                   Alun will help you focus more on doing anything, whether you are working, studying, or doing other activities that require intense focus.
+                   Boost focus for work, study or any activity requiring intense concentration
                 </div>
               </div>
               <div class="row py-5">
@@ -19,7 +19,7 @@
                 </div>
                 <div class="col col-md-7">
                   <h2 class="h1">Relax</h2>                  
-                  Sometimes we feel tired and exhausted after doing something. The soundscape of Alun will make us more relaxed so we can rest better.
+                  Improve relaxation
                 </div>
               </div>
               <div class="row py-5">
@@ -28,7 +28,7 @@
                 </div>
                 <div class="col col-md-7">
                   <h2 class="h1">Meditation</h2>                  
-                  Meditation has been known as a medium to relax the body and mind for centuries. With a soundscape or ambient from Alun, meditation activities will be calmer and we can focus more on the meditation.
+                  Enhances meditation by promoting relaxation and improving focus
                 </div>
               </div>        
               <div class="row py-5">
@@ -37,7 +37,7 @@
                 </div>
                 <div class="col col-md-7">
                   <h2 class="h1">Sleep</h2>                  
-                  Sleep is very important. Some experts even recommend us to sleep at least 8 hours per day. However, sometimes we have difficulty sleeping because there are many thoughts or sounds in the environment where we live. Alun will help us sleep better and with better quality.
+                  Help you sleep better and with better quality
                 </div>
               </div>                                                
         </div>

@@ -13,7 +13,7 @@
               Join Our Beta Testing Program
             </h1>
             <p class="col-lg-10 fs-4">
-              Be the first person to get early access as beta tester of Alun App
+              Be among the first few to try out Alun App by signing up for our beta testing program
             </p>
           </div>
           <div class="col-md-10 mx-auto col-lg-5">

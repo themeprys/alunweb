@@ -22,9 +22,9 @@
             <div class="col-12 col-md-6 text-md-left section-intro">
               <!-- <span class="title-decorative">Designed for Developers</span> -->
               <h3 class="h1 pb-4">About Alun</h3>
-              <p>Our app is based on Indonesian musical sounds from traditional sources such as gamelan and karawitan, blended with modern music technology. This combination of ancestral and contemporary audio will create a unique soundscape that offers users a holistic experience.</p>
-              <p>By combining music, neuroscience, and data science, the app will track individual users’ mental and physical responses to the sound and generate personalized audio feedback that can improve their overall health & wellbeing.</p>
-              <p>We understand the power of sound and music, and we want to provide users with an effective, accessible tool that can help them to improve their lives. Our team is dedicated to making sure our audio consultancy service is at the highest quality, and provides users with a transformative experience.</p>
+              <p>Our app is based on Indonesian musical sounds from traditional sources blended with modern music technology. This combination of ancestral and contemporary audio will create a unique ambient that offers a holistic experience.</p>
+              <p>By combining music, neuroscience, and data science, our machine learning technology adapts to users' mental and physical responses and generates personalized audio that helps improve their overall health and well-being.</p>
+
 
               <!-- <span class="lead">
                 Wingman employs industry-standard development tools with an intuitive workflow designed to get you up and runnning faster.
