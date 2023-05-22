@@ -60,7 +60,7 @@
               </button>
               <hr class="my-4" />
               <small class="text-muted"
-                >By mengisi form ini, Anda menyetujui layanan dan ketentuan Alun</small
+                >Dengan mengisi form ini, Anda menyetujui layanan dan ketentuan Alun</small
               >
             </form>
           </div>
