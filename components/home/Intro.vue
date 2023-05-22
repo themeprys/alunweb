@@ -18,19 +18,19 @@
       <div class="row pb-5 mb-0">
         <div class="col-12 col-md-3 py-5">
           <i class="fa-solid fa-headphones-simple fa-4x"></i>
-          <h3 class="pt-4 h3 fs-5">Personalized Music Player</h3>
+          <h3 class="pt-4 h3 fs-5">Musik yang Dipersonalisasi</h3>
         </div>
         <div class="col-12 col-md-3 py-5">
           <i class="fa-solid fa-flask fa-4x"></i>
-          <h3 class="pt-4 h3 fs-5">Backed by Science</h3>
+          <h3 class="pt-4 h3 fs-5">Didukung oleh Sains</h3>
         </div>
         <div class="col-12 col-md-3 py-5">
           <i class="fa-solid fa-code fa-4x"></i>
-          <h3 class="pt-4 h3 fs-5">Machine Learning Technology</h3>
+          <h3 class="pt-4 h3 fs-5">Teknologi Kecerdasan Buatan</h3>
         </div>
         <div class="col-12 col-md-3 py-5">
           <i class="fa-solid fa-mobile fa-4x"></i>
-          <h3 class="pt-4 h3 fs-5">Easy to Use</h3>
+          <h3 class="pt-4 h3 fs-5">Mudah Digunakan</h3>
         </div>
       </div>
       <!-- <div class="row justify-content-center pt-0 mt-0 pb-0">

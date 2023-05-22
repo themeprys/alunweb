@@ -1,1 +1,1 @@
-export { default } from "file:///Users/priyonosantosa/Documents/prys/repo/xalun/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
+export { default } from "file:///Users/priyonosantosa/Documents/prys/repo/alun-web/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

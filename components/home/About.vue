@@ -21,9 +21,15 @@
             </div>
             <div class="col-12 col-md-6 text-md-left section-intro">
               <!-- <span class="title-decorative">Designed for Developers</span> -->
-              <h3 class="h1 pb-4">About Alun</h3>
-              <p>Our app is based on Indonesian musical sounds from traditional sources blended with modern music technology. This combination of ancestral and contemporary audio will create a unique ambient that offers a holistic experience.</p>
-              <p>By combining music, neuroscience, and data science, our machine learning technology adapts to users' mental and physical responses and generates personalized audio that helps improve their overall health and well-being.</p>
+              <h3 class="h1 pb-4">Tentang Alun</h3>
+              <p>Teknologi inovatif Alun adalah perpaduan antara kecerdasan buatan (AI) dan psikologi musik untuk mengkreasikan musik yang dipersonalisasi dan bertujuan untuk membantu relaksasi, fokus, serta kebugaran.</p>
+              <p>Berikut adalah nilai-nilai yang kami anut dalam mengembangkan aplikasi Alun:</p>
+<ol>
+<li aria-level="1"><strong>Teknologi</strong> - Dengan bantuan teknologi kecerdasan buatan (AI) dan pembelajaran mesin (machine learning), Alun memproduksi komposisi musik menggunakan instrumen nusantara yang dipersonalisasi sesuai waktu, cuaca, dan suasana hati pengguna.</li>
+<li aria-level="1"><strong>Psikologi</strong> - Algoritma musik yang dihasilkan Alun bertujuan untuk membantu mengoptimalkan kesehatan mental berdasarkan riset*.</li>
+<li aria-level="1"><strong>Etnomusikologi</strong> - Model data pembelajaran mesin yang kami gunakan berasaskan etika serta bertanggung jawab terhadap budaya nusantara.</li>
+</ol>
+
 
 
               <!-- <span class="lead">

@@ -8,14 +8,14 @@
 
 <script setup>
   useHead({
-  title: "Alun - Music App for Your Well-Being Acivities",
+  title: "Alun - Aplikasi Musik Nusantara yang dipersonalisasi untuk Anda",
   viewport: "width=device-width, initial-scale=1, maximum-scale=1",
   charset: "utf-8",
   meta: [
     {
       name: "description",
       content:
-        "AI generated ambient sound that's personalized to improve your mental health daily activities.",
+        "Instrumen musik nusantara yang dikreasikan oleh kecerdasan buatan (AI) dan dipersonalisasi untuk membantu mengoptimalkan kesehatan mental.",
     },
   ],
   bodyAttrs: {

@@ -10,11 +10,10 @@
         <div class="row align-items-center g-lg-5 py-5">
           <div class="col-lg-7 text-center text-lg-start text-white">
             <h1 class="display-4 fw-bold lh-1 mb-3">
-              Join Our Beta Testing Program
+              Bergabunglah dalam program beta kami
             </h1>
             <p class="col-lg-10 fs-4">
-              Be among the first few to try out Alun App by signing up for our beta testing program
-            </p>
+              Jadilah salah satu dari yang pertama mencoba aplikasi Alun dengan mendaftarkan diri dalam program uji coba versi beta.</p>
           </div>
           <div class="col-md-10 mx-auto col-lg-5">
             <form
@@ -38,7 +37,7 @@
                   placeholder="Your Name"
                   required
                 />
-                <label for="floatingName">Your Name</label>
+                <label for="floatingName">Nama Anda</label>
               </div>
               <div class="form-floating mb-3">
                 <input
@@ -49,7 +48,7 @@
                   placeholder="name@example.com"
                   required
                 />
-                <label for="floatingEmail">Email address</label>
+                <label for="floatingEmail">Alamat e-mail</label>
               </div>
               <!-- <div class="checkbox mb-3">
                 <label>
@@ -61,7 +60,7 @@
               </button>
               <hr class="my-4" />
               <small class="text-muted"
-                >By clicking Sign up, you agree to the terms of use.</small
+                >By mengisi form ini, Anda menyetujui layanan dan ketentuan Alun</small
               >
             </form>
           </div>

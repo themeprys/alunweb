@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col">
           <p>
-            Copyright by Rupa Suara Audio Consultant @ 2023<br>All Rights Reseved
+            Rupa Suara Audio Consultant @ 2023<br>Hak Cipta Dilindungi Undang-Undang
           </p>
         </div>
       </div>
