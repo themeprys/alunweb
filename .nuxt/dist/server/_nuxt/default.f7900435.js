@@ -14,7 +14,7 @@ import "@vue/shared";
 const _imports_0 = "" + globalThis.__buildAssetsURL("logo-text.347017d0.svg");
 const _sfc_main$2 = {};
 function _sfc_ssrRender$2(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
-  _push(`<div${ssrRenderAttrs(_attrs)}><div class="container"><header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3"><a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none"><img${ssrRenderAttr("src", _imports_0)} alt="Your Company" height="100"></a><div class="col-md-3 text-end"><a href="#beta" type="button" class="btn btn-dark">Join Beta</a></div></header></div></div>`);
+  _push(`<div${ssrRenderAttrs(_attrs)}><div class="container"><header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3"><a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none"><img${ssrRenderAttr("src", _imports_0)} alt="Your Company" height="100"></a><div class="col-md-3 text-end"><a href="#beta" type="button" class="btn btn-dark">Gabung Beta</a></div></header></div></div>`);
 }
 const _sfc_setup$2 = _sfc_main$2.setup;
 _sfc_main$2.setup = (props, ctx) => {
@@ -25,7 +25,7 @@ _sfc_main$2.setup = (props, ctx) => {
 const __nuxt_component_0 = /* @__PURE__ */ _export_sfc(_sfc_main$2, [["ssrRender", _sfc_ssrRender$2]]);
 const _sfc_main$1 = {};
 function _sfc_ssrRender$1(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
-  _push(`<div${ssrRenderAttrs(mergeProps({ class: "footer pt-3" }, _attrs))}><div class="container text-center"><div class="row"><div class="col"><p> Copyright by Rupa Suara Audio Consultant @ 2023<br>All Rights Reseved </p></div></div></div></div>`);
+  _push(`<div${ssrRenderAttrs(mergeProps({ class: "footer pt-3" }, _attrs))}><div class="container text-center"><div class="row"><div class="col"><p> Rupa Suara Audio Consultant @ 2023<br>Hak Cipta Dilindungi Undang-Undang </p></div></div></div></div>`);
 }
 const _sfc_setup$1 = _sfc_main$1.setup;
 _sfc_main$1.setup = (props, ctx) => {
@@ -54,4 +54,4 @@ const _default = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrR
 export {
   _default as default
 };
-//# sourceMappingURL=default.8b10ff03.js.map
+//# sourceMappingURL=default.f7900435.js.map
