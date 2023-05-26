@@ -36,7 +36,7 @@
                   <i class="fa-solid fa-bed fa-4x"></i>
                 </div>
                 <div class="col col-md-7">
-                  <h2 class="h1">Sleep</h2>                  
+                  <h2 class="h1">Tidur</h2>                  
                   Meningkatkan kenyamanan dan kualitas tidur
                 </div>
               </div>                                                

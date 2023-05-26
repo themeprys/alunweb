@@ -1201,7 +1201,7 @@ function _sfc_ssrRender$1(_ctx, _push, _parent, _attrs, $props, $setup, $data, $
   _push(`<section${ssrRenderAttrs(mergeProps({
     id: "refinforcement",
     class: "bg-light"
-  }, _attrs))}><div class="container"><div class="row justify-content-center py-5"><div class="col-12 px-4 py-5"><p class="h2 mb-5">Target Aktivitas</p><div class="row py-5"><div class="col-3 col-md-2 text-center"><i class="fa-solid fa-person-rays fa-4x"></i></div><div class="col col-md-7"><h2 class="h1">Fokus</h2> Membantu fokus untuk bekerja, belajar, atau aktivitas yang membutuhkan konsentrasi </div></div><div class="row py-5"><div class="col-3 col-md-2 text-center"><i class="fa-solid fa-laptop-file fa-4x"></i></div><div class="col col-md-7"><h2 class="h1">Relaks</h2> Mendukung relaksasi </div></div><div class="row py-5"><div class="col-3 col-md-2 text-center"><i class="fa-solid fa-hands-praying fa-4x"></i></div><div class="col col-md-7"><h2 class="h1">Meditasi</h2> Menunjang aktivitas meditasi </div></div><div class="row py-5"><div class="col-3 col-md-2 text-center"><i class="fa-solid fa-bed fa-4x"></i></div><div class="col col-md-7"><h2 class="h1">Sleep</h2> Meningkatkan kenyamanan dan kualitas tidur </div></div></div></div></div></section>`);
+  }, _attrs))}><div class="container"><div class="row justify-content-center py-5"><div class="col-12 px-4 py-5"><p class="h2 mb-5">Target Aktivitas</p><div class="row py-5"><div class="col-3 col-md-2 text-center"><i class="fa-solid fa-person-rays fa-4x"></i></div><div class="col col-md-7"><h2 class="h1">Fokus</h2> Membantu fokus untuk bekerja, belajar, atau aktivitas yang membutuhkan konsentrasi </div></div><div class="row py-5"><div class="col-3 col-md-2 text-center"><i class="fa-solid fa-laptop-file fa-4x"></i></div><div class="col col-md-7"><h2 class="h1">Relaks</h2> Mendukung relaksasi </div></div><div class="row py-5"><div class="col-3 col-md-2 text-center"><i class="fa-solid fa-hands-praying fa-4x"></i></div><div class="col col-md-7"><h2 class="h1">Meditasi</h2> Menunjang aktivitas meditasi </div></div><div class="row py-5"><div class="col-3 col-md-2 text-center"><i class="fa-solid fa-bed fa-4x"></i></div><div class="col col-md-7"><h2 class="h1">Tidur</h2> Meningkatkan kenyamanan dan kualitas tidur </div></div></div></div></div></section>`);
 }
 const _sfc_setup$3 = _sfc_main$3.setup;
 _sfc_main$3.setup = (props, ctx) => {
@@ -1231,7 +1231,7 @@ const _routes = [
     children: [],
     meta: meta$1,
     alias: (meta$1 == null ? void 0 : meta$1.alias) || [],
-    component: () => import("./_nuxt/index.c30e3fd9.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/index.14a91ecb.js").then((m) => m.default || m)
   },
   {
     name: "thank-you-beta",
@@ -1240,7 +1240,7 @@ const _routes = [
     children: [],
     meta,
     alias: (meta == null ? void 0 : meta.alias) || [],
-    component: () => import("./_nuxt/thank-you-beta.f7eda2ad.js").then((m) => m.default || m)
+    component: () => import("./_nuxt/thank-you-beta.4c024160.js").then((m) => m.default || m)
   }
 ];
 const configRouterOptions = {};
@@ -1389,7 +1389,7 @@ const _sfc_main$1 = {
   __name: "nuxt-root",
   __ssrInlineRender: true,
   setup(__props) {
-    const ErrorComponent = defineAsyncComponent(() => import("./_nuxt/error-component.dcaf9ee2.js").then((r) => r.default || r));
+    const ErrorComponent = defineAsyncComponent(() => import("./_nuxt/error-component.407f1c6d.js").then((r) => r.default || r));
     const nuxtApp = useNuxtApp();
     provide("_route", useRoute());
     nuxtApp.hooks.callHookWith((hooks) => hooks.map((hook) => hook()), "vue:setup");
@@ -1422,7 +1422,7 @@ _sfc_main$1.setup = (props, ctx) => {
   return _sfc_setup$1 ? _sfc_setup$1(props, ctx) : void 0;
 };
 const layouts = {
-  default: defineAsyncComponent(() => import("./_nuxt/default.f7900435.js").then((m) => m.default || m))
+  default: defineAsyncComponent(() => import("./_nuxt/default.08704e4b.js").then((m) => m.default || m))
 };
 const __nuxt_component_0 = defineComponent({
   props: {
