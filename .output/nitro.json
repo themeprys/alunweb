@@ -1,5 +1,5 @@
 {
-  "date": "2023-05-26T05:51:45.881Z",
+  "date": "2023-05-27T06:25:49.195Z",
   "preset": "cloudflare",
   "commands": {
     "preview": "npx wrangler dev ./server/index.mjs --site ./public --local",
