@@ -12,7 +12,7 @@
         <h1 class="display-5 fw-bold lh-1 mb-3">Aplikasi Musik Nusantara yang dipersonalisasi untuk Anda</h1>
         <p class="lead">Instrumen musik nusantara yang dikreasikan oleh kecerdasan buatan (AI) dan dipersonalisasi untuk membantu mengoptimalkan kesehatan mental</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-          <a href="https://beta1-dashboard.alun.app/" class="btn btn-dark btn-lg px-4 me-md-2">Akses Beta Version</a>
+          <a href="#intro" class="btn btn-dark btn-lg px-4 me-md-2">Pelajari Lebih Lanjut</a>
           <!-- <button type="button" class="btn btn-outline-secondary btn-lg px-4">Request Early Access</button> -->
         </div>
       </div>
