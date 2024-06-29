@@ -13,7 +13,6 @@
         <p class="lead">Instrumen musik nusantara yang dikreasikan oleh kecerdasan buatan (AI) dan dipersonalisasi untuk membantu mengoptimalkan kesehatan mental</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
           <a href="https://beta1-dashboard.alun.app/" class="btn btn-dark btn-lg px-4 me-md-2">Akses Beta Version</a>
-          <!-- <button type="button" class="btn btn-outline-secondary btn-lg px-4">Request Early Access</button> -->
         </div>
       </div>
     </div>
