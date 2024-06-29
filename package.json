@@ -13,6 +13,7 @@
     "vue-gtag-next": "^1.14.0"
   },
   "dependencies": {
-    "@gtm-support/vue-gtm": "^2.0.0"
+    "@gtm-support/vue-gtm": "^2.0.0",
+    "wrangler": "^3.62.0"
   }
 }
