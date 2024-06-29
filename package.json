@@ -1,12 +1,16 @@
 {
   "private": true,
   "scripts": {
+    "start": "node .output/server/index.mjs",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
+    "engines": {
+        "node": "20.x"
+  },  
   "devDependencies": {
     "nuxt": "3.0.0-rc.11",
     "nuxt-gtag": "^0.3.0",
