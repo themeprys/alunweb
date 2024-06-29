@@ -5,7 +5,7 @@
     <HomeIntro />
     <HomeReinforcement />
 
-    <div id="beta" class="bg-black">
+    <!-- <div id="beta" class="bg-black">
       <div class="container col-xl-10 col-xxl-8 px-4 py-5">
         <div class="row align-items-center g-lg-5 py-5">
           <div class="col-lg-7 text-center text-lg-start text-white">
@@ -29,11 +29,6 @@
                   required />
                 <label for="floatingEmail">Alamat e-mail</label>
               </div>
-              <!-- <div class="checkbox mb-3">
-                <label>
-                  <input type="checkbox" value="remember-me"> Term of services agreement
-                </label>
-              </div> -->
               <button class="w-100 btn btn-lg btn-dark" type="submit">
                 Sign up
               </button>
@@ -44,7 +39,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Modal -->
     <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
       aria-labelledby="staticBackdropLabel" aria-hidden="true">
