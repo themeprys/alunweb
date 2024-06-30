@@ -3,13 +3,13 @@
   "scripts": {
     "start": "node .output/server/index.mjs",
     "build": "nuxt build",
-    "dev": "nuxt dev",
+    "dev": "nuxt dev  --port=3001",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
     "engines": {
-        "node": "18.x"
+        "node": "20.x"
   },  
   "devDependencies": {
     "nuxt": "3.0.0-rc.11",
