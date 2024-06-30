@@ -9,7 +9,7 @@
     "postinstall": "nuxt prepare"
   },
     "engines": {
-        "node": "20.x"
+        "node": "18.x"
   },  
   "devDependencies": {
     "nuxt": "3.0.0-rc.11",
