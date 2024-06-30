@@ -29,11 +29,6 @@
                   required />
                 <label for="floatingEmail">Alamat e-mail</label>
               </div>
-              <!-- <div class="checkbox mb-3">
-                <label>
-                  <input type="checkbox" value="remember-me"> Term of services agreement
-                </label>
-              </div> -->
               <button class="w-100 btn btn-lg btn-dark" type="submit">
                 Sign up
               </button>
